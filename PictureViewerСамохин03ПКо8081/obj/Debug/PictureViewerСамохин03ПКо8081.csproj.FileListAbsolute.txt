@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\bin\Debug\PictureViewerСамохин03ПКо8081.exe.config
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\bin\Debug\PictureViewerСамохин03ПКо8081.exe
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\bin\Debug\PictureViewerСамохин03ПКо8081.pdb
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.csprojAssemblyReference.cache
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.Form1.resources
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.Properties.Resources.resources
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.csproj.GenerateResource.cache
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.exe
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.pdb
+C:\Users\test\source\repos\PictureViewerСамохин03ПКо8081\PictureViewerСамохин03ПКо8081\obj\Debug\PictureViewerСамохин03ПКо8081.AboutBox1.resources
